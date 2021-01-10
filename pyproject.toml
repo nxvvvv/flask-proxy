@@ -1,0 +1,9 @@
+[tool]
+[tool.poetry]
+authors = ["Navaneeth K M <navaneethkm004@gmail.com>"]
+name = "flask-proxy"
+description = "A simple proxy"
+version = "1.0.0"
+[tool.poetry.dependencies]
+flask = "*"
+python = "^3.8"
